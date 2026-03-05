@@ -1,0 +1,56 @@
+# Binaries
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build folders
+
+bin/
+build/
+dist/
+
+# Go build output
+
+*.test
+*.out
+
+# Dependency directories
+
+vendor/
+
+# Go workspace file
+
+go.work
+
+# Logs
+
+*.log
+
+# Environment files
+
+.env
+.env.local
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+tmp/
+temp/
+
+# Task storage file (optional)
+
+tasks.json
